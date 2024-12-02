@@ -24,3 +24,14 @@ The model's performance is evaluated using metrics such as accuracy, precision, 
 
 # Future Work:
 Potential improvements include expanding the model to recognize more complex gestures, deploying the model in real-time applications, and integrating it with a user-friendly interface for broader accessibility.
+
+
+
+# Outputs:
+![image](https://github.com/user-attachments/assets/051691ed-ac88-4ee4-8b10-a265e68097e6)
+
+
+![image](https://github.com/user-attachments/assets/9748ffe3-f4c0-4e08-84c8-45aa990231c8)
+
+
+![image](https://github.com/user-attachments/assets/49317efe-d7de-4d36-9bd3-20c7f98249d7)
